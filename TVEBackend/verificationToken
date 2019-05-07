@@ -1,0 +1,4 @@
+<samlp:AuthnRequest xmlns:samlp="urn:oasis:names:tc:SAML:2.0:protocol" xmlns:saml="urn:oasis:names:tc:SAML:2.0:assertion" ID="_944916defae4c3c3c952e6cddd9bd03c9309a9cb98" Version="2.0" IssueInstant="2016-08-05T03:54:16Z" Destination="https://MSOTestApp/Apple-SSO-IdP" ProtocolBinding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST">
+    <saml:Issuer>https://TVEBackend/Apple-SSO-SP</saml:Issuer>
+    <samlp:NameIDPolicy Format="urn:oasis:names:tc:SAML:2.0:nameid-format:transient" AllowCreate="false"/>
+</samlp:AuthnRequest>
