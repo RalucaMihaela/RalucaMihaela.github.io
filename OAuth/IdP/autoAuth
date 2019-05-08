@@ -1,0 +1,7 @@
+{
+    "autoAuth" : true,
+    "userName" : "John Appleseed",
+    "accessToken" : "DkZwKy4rueo1rGhItC16",
+    "expiresDate" : "Fri Oct 20 2018 15:52:42 GMT-0700 (PDT)",
+    "userChannelList" : ["ABC","NBC","FOX","DIS","ESPN","SSO"]
+}
